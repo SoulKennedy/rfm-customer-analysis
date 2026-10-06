@@ -1,0 +1,288 @@
+Customer_ID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,RFM_Category
+CUST0001,31,5,64.5,4,5,4,13,Best Customers
+CUST0002,1,4,53.9,5,4,3,12,Loyal Customers
+CUST0003,139,4,75.75,2,4,4,10,Loyal Customers
+CUST0004,51,4,123.07,4,4,5,13,Best Customers
+CUST0005,15,4,63.34,5,4,4,13,Best Customers
+CUST0007,143,5,104.63,2,5,5,12,Loyal Customers
+CUST0008,45,4,106.62,4,4,5,13,Best Customers
+CUST0009,20,6,139.02,5,5,5,15,Best Customers
+CUST0010,25,4,35.17,4,4,2,10,Loyal Customers
+CUST0011,18,6,128.11,5,5,5,15,Best Customers
+CUST0012,43,9,187.09,4,5,5,14,Best Customers
+CUST0013,9,2,30.9,5,2,2,9,Potential Loyal Customers
+CUST0014,68,6,132.01,3,5,5,13,Best Customers
+CUST0015,114,5,58.19,2,5,3,10,Loyal Customers
+CUST0016,176,2,39.26,1,2,2,5,Need Attention
+CUST0017,93,6,90.01,3,5,4,12,Loyal Customers
+CUST0018,133,2,68.16,2,2,4,8,Potential Loyal Customers
+CUST0019,66,3,50.73,3,3,3,9,Potential Loyal Customers
+CUST0020,93,4,52.31,3,4,3,10,Loyal Customers
+CUST0021,127,3,57.05,2,3,3,8,Potential Loyal Customers
+CUST0022,9,3,50.93,5,3,3,11,Loyal Customers
+CUST0023,92,3,62.49,3,3,4,10,Loyal Customers
+CUST0024,74,2,16.66,3,2,1,6,Need Attention
+CUST0025,41,6,109.94,4,5,5,14,Best Customers
+CUST0026,143,4,95.76,2,4,5,11,Loyal Customers
+CUST0027,130,5,70.66,2,5,4,11,Loyal Customers
+CUST0028,115,1,4.86,2,1,1,4,Need Attention
+CUST0029,62,6,130.92,3,5,5,13,Best Customers
+CUST0031,273,1,9.42,1,1,1,3,At Risk
+CUST0032,135,2,26.84,2,2,2,6,Need Attention
+CUST0033,27,1,5.71,4,1,1,6,Need Attention
+CUST0034,214,2,15.89,1,2,1,4,Need Attention
+CUST0035,174,3,58.38,1,3,3,7,Potential Loyal Customers
+CUST0036,16,3,72.06,5,3,4,12,Loyal Customers
+CUST0037,77,3,40.36,3,3,2,8,Potential Loyal Customers
+CUST0038,56,4,44.35,3,4,2,9,Potential Loyal Customers
+CUST0039,24,8,167.44,5,5,5,15,Best Customers
+CUST0040,30,6,101.46,4,5,5,14,Best Customers
+CUST0041,193,4,63.98,1,4,4,9,Potential Loyal Customers
+CUST0042,158,4,106.78,2,4,5,11,Loyal Customers
+CUST0043,221,1,12.17,1,1,1,3,At Risk
+CUST0044,113,2,10.38,2,2,1,5,Need Attention
+CUST0045,81,2,23.24,3,2,1,6,Need Attention
+CUST0046,174,4,65.58,1,4,4,9,Potential Loyal Customers
+CUST0047,119,4,90.01,2,4,4,10,Loyal Customers
+CUST0049,196,4,32.14,1,4,2,7,Potential Loyal Customers
+CUST0050,149,3,32.49,2,3,2,7,Potential Loyal Customers
+CUST0051,73,3,86.68,3,3,4,10,Loyal Customers
+CUST0052,48,2,52.57,4,2,3,9,Potential Loyal Customers
+CUST0053,20,2,13.86,5,2,1,8,Potential Loyal Customers
+CUST0054,94,2,14.21,3,2,1,6,Need Attention
+CUST0055,110,5,81.3,2,5,4,11,Loyal Customers
+CUST0056,26,1,10.48,4,1,1,6,Need Attention
+CUST0057,110,1,24.63,2,1,1,4,Need Attention
+CUST0058,136,2,83.66,2,2,4,8,Potential Loyal Customers
+CUST0059,24,7,99.24,5,5,5,15,Best Customers
+CUST0060,27,4,88.92,4,4,4,12,Loyal Customers
+CUST0061,212,3,46.61,1,3,3,7,Potential Loyal Customers
+CUST0062,176,3,51.04,1,3,3,7,Potential Loyal Customers
+CUST0063,123,6,96.28,2,5,5,12,Loyal Customers
+CUST0064,19,3,49.8,5,3,3,11,Loyal Customers
+CUST0065,1,2,23.78,5,2,1,8,Potential Loyal Customers
+CUST0066,8,2,56.19,5,2,3,10,Loyal Customers
+CUST0067,253,2,50.21,1,2,3,6,Need Attention
+CUST0068,148,2,40.29,2,2,2,6,Need Attention
+CUST0069,57,5,56.24,3,5,3,11,Loyal Customers
+CUST0071,16,1,13.79,5,1,1,7,Potential Loyal Customers
+CUST0072,193,5,41.33,1,5,2,8,Potential Loyal Customers
+CUST0073,174,5,142.38,1,5,5,11,Loyal Customers
+CUST0074,176,2,20.81,1,2,1,4,Need Attention
+CUST0075,135,3,60.87,2,3,3,8,Potential Loyal Customers
+CUST0076,72,5,75.69,3,5,4,12,Loyal Customers
+CUST0077,113,4,91.19,2,4,5,11,Loyal Customers
+CUST0078,7,3,70.13,5,3,4,12,Loyal Customers
+CUST0079,24,2,38.49,5,2,2,9,Potential Loyal Customers
+CUST0080,63,3,80.93,3,3,4,10,Loyal Customers
+CUST0081,218,3,52.34,1,3,3,7,Potential Loyal Customers
+CUST0082,1,5,88.89,5,5,4,14,Best Customers
+CUST0084,35,8,123.51,4,5,5,14,Best Customers
+CUST0085,182,2,41.95,1,2,2,5,Need Attention
+CUST0086,40,4,30.27,4,4,2,10,Loyal Customers
+CUST0087,146,4,57.61,2,4,3,9,Potential Loyal Customers
+CUST0088,141,2,21.91,2,2,1,5,Need Attention
+CUST0089,74,6,60.04,3,5,3,11,Loyal Customers
+CUST0090,14,5,49.97,5,5,3,13,Best Customers
+CUST0092,146,5,113.27,2,5,5,12,Loyal Customers
+CUST0093,1,4,64.37,5,4,4,13,Best Customers
+CUST0094,235,1,11.82,1,1,1,3,At Risk
+CUST0095,49,3,31.41,4,3,2,9,Potential Loyal Customers
+CUST0096,55,3,95.01,4,3,5,12,Loyal Customers
+CUST0097,175,2,32.73,1,2,2,5,Need Attention
+CUST0098,1,6,122.55,5,5,5,15,Best Customers
+CUST0099,17,2,58.25,5,2,3,10,Loyal Customers
+CUST0100,233,2,18.39,1,2,1,4,Need Attention
+CUST0101,175,3,70.75,1,3,4,8,Potential Loyal Customers
+CUST0102,3,5,108.92,5,5,5,15,Best Customers
+CUST0103,330,2,22.2,1,2,1,4,Need Attention
+CUST0104,20,6,164.74,5,5,5,15,Best Customers
+CUST0105,266,2,19.49,1,2,1,4,Need Attention
+CUST0106,36,3,91.44,4,3,5,12,Loyal Customers
+CUST0107,127,3,29.13,2,3,2,7,Potential Loyal Customers
+CUST0108,81,6,72.05,3,5,4,12,Loyal Customers
+CUST0109,329,1,8.01,1,1,1,3,At Risk
+CUST0110,92,2,52.1,3,2,3,8,Potential Loyal Customers
+CUST0111,6,5,108.18,5,5,5,15,Best Customers
+CUST0112,111,1,11.81,2,1,1,4,Need Attention
+CUST0113,48,3,36.65,4,3,2,9,Potential Loyal Customers
+CUST0114,86,3,57.95,3,3,3,9,Potential Loyal Customers
+CUST0115,99,3,52.66,3,3,3,9,Potential Loyal Customers
+CUST0116,133,1,4.38,2,1,1,4,Need Attention
+CUST0117,15,7,150.87,5,5,5,15,Best Customers
+CUST0118,82,4,46.04,3,4,2,9,Potential Loyal Customers
+CUST0119,54,5,106.08,4,5,5,14,Best Customers
+CUST0120,24,5,88.56,5,5,4,14,Best Customers
+CUST0121,117,2,44.73,2,2,2,6,Need Attention
+CUST0122,56,3,45.87,3,3,2,8,Potential Loyal Customers
+CUST0123,62,3,59.82,3,3,3,9,Potential Loyal Customers
+CUST0124,186,2,27.5,1,2,2,5,Need Attention
+CUST0125,199,3,41.38,1,3,2,6,Need Attention
+CUST0126,182,2,20.42,1,2,1,4,Need Attention
+CUST0127,138,2,23.58,2,2,1,5,Need Attention
+CUST0128,28,3,53.66,4,3,3,10,Loyal Customers
+CUST0129,146,3,46.1,2,3,2,7,Potential Loyal Customers
+CUST0130,151,6,70.78,2,5,4,11,Loyal Customers
+CUST0131,12,5,131.69,5,5,5,15,Best Customers
+CUST0132,77,4,65.01,3,4,4,11,Loyal Customers
+CUST0133,38,4,57.97,4,4,3,11,Loyal Customers
+CUST0134,102,4,53.77,3,4,3,10,Loyal Customers
+CUST0136,28,3,52.02,4,3,3,10,Loyal Customers
+CUST0137,7,4,34.4,5,4,2,11,Loyal Customers
+CUST0138,177,1,15.44,1,1,1,3,At Risk
+CUST0140,208,1,27.37,1,1,2,4,Need Attention
+CUST0141,35,5,35.08,4,5,2,11,Loyal Customers
+CUST0142,11,2,40.78,5,2,2,9,Potential Loyal Customers
+CUST0143,50,6,170.41,4,5,5,14,Best Customers
+CUST0144,84,2,16.04,3,2,1,6,Need Attention
+CUST0145,124,5,85.98,2,5,4,11,Loyal Customers
+CUST0146,51,4,64.99,4,4,4,12,Loyal Customers
+CUST0147,98,5,98.48,3,5,5,13,Best Customers
+CUST0148,22,5,90.62,5,5,5,15,Best Customers
+CUST0149,46,4,61.65,4,4,4,12,Loyal Customers
+CUST0150,247,3,90.49,1,3,5,9,Potential Loyal Customers
+CUST0151,163,2,21.74,2,2,1,5,Need Attention
+CUST0152,83,6,92.44,3,5,5,13,Best Customers
+CUST0153,91,6,92.68,3,5,5,13,Best Customers
+CUST0154,61,7,88.16,3,5,4,12,Loyal Customers
+CUST0155,113,2,33.09,2,2,2,6,Need Attention
+CUST0156,265,3,72.32,1,3,4,8,Potential Loyal Customers
+CUST0157,49,7,132.83,4,5,5,14,Best Customers
+CUST0158,55,5,77.51,4,5,4,13,Best Customers
+CUST0159,45,5,85.34,4,5,4,13,Best Customers
+CUST0160,10,4,59.02,5,4,3,12,Loyal Customers
+CUST0161,17,8,103.61,5,5,5,15,Best Customers
+CUST0162,133,2,14.67,2,2,1,5,Need Attention
+CUST0163,215,3,29.84,1,3,2,6,Need Attention
+CUST0164,101,4,52.29,3,4,3,10,Loyal Customers
+CUST0165,119,4,85.34,2,4,4,10,Loyal Customers
+CUST0166,5,4,137.26,5,4,5,14,Best Customers
+CUST0167,248,1,10.17,1,1,1,3,At Risk
+CUST0168,43,3,58.05,4,3,3,10,Loyal Customers
+CUST0169,323,2,53.61,1,2,3,6,Need Attention
+CUST0170,31,4,62.59,4,4,4,12,Loyal Customers
+CUST0171,78,3,37.59,3,3,2,8,Potential Loyal Customers
+CUST0172,55,3,61.62,4,3,4,11,Loyal Customers
+CUST0173,28,4,52.51,4,4,3,11,Loyal Customers
+CUST0174,39,2,55.1,4,2,3,9,Potential Loyal Customers
+CUST0175,31,6,86.22,4,5,4,13,Best Customers
+CUST0176,41,4,107.85,4,4,5,13,Best Customers
+CUST0177,16,5,122.91,5,5,5,15,Best Customers
+CUST0178,95,5,114.12,3,5,5,13,Best Customers
+CUST0179,37,5,55.54,4,5,3,12,Loyal Customers
+CUST0180,330,1,12.12,1,1,1,3,At Risk
+CUST0181,183,4,34.24,1,4,2,7,Potential Loyal Customers
+CUST0182,109,3,33.46,2,3,2,7,Potential Loyal Customers
+CUST0183,80,2,76.81,3,2,4,9,Potential Loyal Customers
+CUST0184,153,2,9.69,2,2,1,5,Need Attention
+CUST0185,14,2,32.3,5,2,2,9,Potential Loyal Customers
+CUST0186,201,2,17.36,1,2,1,4,Need Attention
+CUST0187,128,2,33.97,2,2,2,6,Need Attention
+CUST0188,41,5,60.47,4,5,3,12,Loyal Customers
+CUST0189,258,1,17.08,1,1,1,3,At Risk
+CUST0190,172,1,33.44,2,1,2,5,Need Attention
+CUST0191,64,1,16.14,3,1,1,5,Need Attention
+CUST0192,47,3,33.65,4,3,2,9,Potential Loyal Customers
+CUST0193,133,4,58.1,2,4,3,9,Potential Loyal Customers
+CUST0194,223,2,19.81,1,2,1,4,Need Attention
+CUST0195,9,4,52.35,5,4,3,12,Loyal Customers
+CUST0196,149,2,23.36,2,2,1,5,Need Attention
+CUST0197,126,1,4.26,2,1,1,4,Need Attention
+CUST0198,43,5,61.88,4,5,4,13,Best Customers
+CUST0199,54,4,41.64,4,4,2,10,Loyal Customers
+CUST0200,6,2,45.68,5,2,2,9,Potential Loyal Customers
+CUST0201,20,3,26.67,5,3,1,9,Potential Loyal Customers
+CUST0202,14,5,85.24,5,5,4,14,Best Customers
+CUST0203,257,1,8.8,1,1,1,3,At Risk
+CUST0204,18,3,20.82,5,3,1,9,Potential Loyal Customers
+CUST0205,124,1,5.19,2,1,1,4,Need Attention
+CUST0206,184,3,63.08,1,3,4,8,Potential Loyal Customers
+CUST0207,25,2,22.57,4,2,1,7,Potential Loyal Customers
+CUST0208,146,3,61.43,2,3,4,9,Potential Loyal Customers
+CUST0209,146,3,41,2,3,2,7,Potential Loyal Customers
+CUST0210,179,4,47.96,1,4,3,8,Potential Loyal Customers
+CUST0211,18,2,21.21,5,2,1,8,Potential Loyal Customers
+CUST0213,1,3,40.74,5,3,2,10,Loyal Customers
+CUST0214,137,4,29.38,2,4,2,8,Potential Loyal Customers
+CUST0215,174,6,123.08,1,5,5,11,Loyal Customers
+CUST0216,70,5,158.8,3,5,5,13,Best Customers
+CUST0217,85,3,33.95,3,3,2,8,Potential Loyal Customers
+CUST0218,20,3,59.46,5,3,3,11,Loyal Customers
+CUST0219,5,2,47.76,5,2,3,10,Loyal Customers
+CUST0220,83,3,73.26,3,3,4,10,Loyal Customers
+CUST0221,338,2,30.95,1,2,2,5,Need Attention
+CUST0222,2,4,30.69,5,4,2,11,Loyal Customers
+CUST0223,53,5,61.24,4,5,4,13,Best Customers
+CUST0224,6,6,116.16,5,5,5,15,Best Customers
+CUST0225,101,3,24.72,3,3,1,7,Potential Loyal Customers
+CUST0226,20,7,108.13,5,5,5,15,Best Customers
+CUST0227,62,6,126.89,3,5,5,13,Best Customers
+CUST0228,66,4,37.58,3,4,2,9,Potential Loyal Customers
+CUST0229,64,4,70.73,3,4,4,11,Loyal Customers
+CUST0231,60,3,55.25,3,3,3,9,Potential Loyal Customers
+CUST0232,65,2,9.94,3,2,1,6,Need Attention
+CUST0233,142,3,61.04,2,3,3,8,Potential Loyal Customers
+CUST0234,89,2,22.16,3,2,1,6,Need Attention
+CUST0235,29,2,54.57,4,2,3,9,Potential Loyal Customers
+CUST0236,35,5,70.13,4,5,4,13,Best Customers
+CUST0237,2,5,92.73,5,5,5,15,Best Customers
+CUST0238,169,1,34.88,2,1,2,5,Need Attention
+CUST0239,82,4,85.9,3,4,4,11,Loyal Customers
+CUST0240,18,1,12.43,5,1,1,7,Potential Loyal Customers
+CUST0241,35,3,51.7,4,3,3,10,Loyal Customers
+CUST0242,11,4,97.14,5,4,5,14,Best Customers
+CUST0243,127,5,101.22,2,5,5,12,Loyal Customers
+CUST0244,187,2,33.43,1,2,2,5,Need Attention
+CUST0245,11,3,70.49,5,3,4,12,Loyal Customers
+CUST0246,164,3,37.87,2,3,2,7,Potential Loyal Customers
+CUST0247,61,2,11.96,3,2,1,6,Need Attention
+CUST0249,102,2,49.29,3,2,3,8,Potential Loyal Customers
+CUST0250,80,3,47.45,3,3,3,9,Potential Loyal Customers
+CUST0251,24,7,123.67,5,5,5,15,Best Customers
+CUST0254,230,2,21.06,1,2,1,4,Need Attention
+CUST0255,253,1,11.89,1,1,1,3,At Risk
+CUST0256,107,1,4.12,2,1,1,4,Need Attention
+CUST0257,26,5,84.58,4,5,4,13,Best Customers
+CUST0258,252,1,12.22,1,1,1,3,At Risk
+CUST0259,248,2,59.36,1,2,3,6,Need Attention
+CUST0260,87,1,33.6,3,1,2,6,Need Attention
+CUST0261,40,6,60.89,4,5,3,12,Loyal Customers
+CUST0262,8,5,121.51,5,5,5,15,Best Customers
+CUST0263,89,3,57.67,3,3,3,9,Potential Loyal Customers
+CUST0264,28,6,126.84,4,5,5,14,Best Customers
+CUST0265,6,2,50.75,5,2,3,10,Loyal Customers
+CUST0266,93,4,37.73,3,4,2,9,Potential Loyal Customers
+CUST0267,127,6,140.89,2,5,5,12,Loyal Customers
+CUST0268,213,3,80.47,1,3,4,8,Potential Loyal Customers
+CUST0269,186,4,70.96,1,4,4,9,Potential Loyal Customers
+CUST0270,130,4,83.37,2,4,4,10,Loyal Customers
+CUST0271,44,5,117.98,4,5,5,14,Best Customers
+CUST0272,361,1,4.37,1,1,1,3,At Risk
+CUST0273,193,3,55.45,1,3,3,7,Potential Loyal Customers
+CUST0274,40,3,71.96,4,3,4,11,Loyal Customers
+CUST0275,250,2,27.74,1,2,2,5,Need Attention
+CUST0276,215,2,48.74,1,2,3,6,Need Attention
+CUST0277,138,3,34.48,2,3,2,7,Potential Loyal Customers
+CUST0278,87,2,27.89,3,2,2,7,Potential Loyal Customers
+CUST0279,338,1,5.19,1,1,1,3,At Risk
+CUST0280,196,2,11.09,1,2,1,4,Need Attention
+CUST0281,198,3,47.22,1,3,3,7,Potential Loyal Customers
+CUST0282,26,6,70.48,4,5,4,13,Best Customers
+CUST0283,39,1,5.6,4,1,1,6,Need Attention
+CUST0284,58,2,71.95,3,2,4,9,Potential Loyal Customers
+CUST0285,86,8,143.59,3,5,5,13,Best Customers
+CUST0286,21,2,15.41,5,2,1,8,Potential Loyal Customers
+CUST0287,26,4,40.15,4,4,2,10,Loyal Customers
+CUST0288,48,7,88.53,4,5,4,13,Best Customers
+CUST0289,84,7,121.17,3,5,5,13,Best Customers
+CUST0290,233,2,69.79,1,2,4,7,Potential Loyal Customers
+CUST0291,20,6,125.53,5,5,5,15,Best Customers
+CUST0292,65,3,69.42,3,3,4,10,Loyal Customers
+CUST0293,17,12,190.97,5,5,5,15,Best Customers
+CUST0294,125,3,59.38,2,3,3,8,Potential Loyal Customers
+CUST0295,91,5,57.31,3,5,3,11,Loyal Customers
+CUST0296,46,5,97.41,4,5,5,14,Best Customers
+CUST0297,6,2,41.12,5,2,2,9,Potential Loyal Customers
+CUST0298,48,2,28.03,4,2,2,8,Potential Loyal Customers
+CUST0299,6,2,36.3,5,2,2,9,Potential Loyal Customers
+CUST0300,115,2,48.06,2,2,3,7,Potential Loyal Customers
